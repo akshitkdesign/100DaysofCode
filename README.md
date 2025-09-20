@@ -1,0 +1,37 @@
+# 100 Days of C Programming
+
+This repository contains my assignments for the #100DaysOfCode challenge.
+
+## Day-wise Folders
+
+- [Day01](./Day01)
+- [Day02](./Day02)
+- [Day03](./Day03)
+- [Day04](./Day04)
+- [Day05](./Day05)
+- [Day06](./Day06)
+- [Day07](./Day07)
+- [Day08](./Day08)
+- [Day09](./Day09)
+- [Day10](./Day10)
+- [Day11](./Day11)
+- [Day12](./Day12)
+- [Day13](./Day13)
+- [Day14](./Day14)
+- [Day15](./Day15)
+- [Day16](./Day16)
+- [Day17](./Day17)
+- [Day18](./Day18)
+- [Day19](./Day19)
+- [Day20](./Day20)
+- [Day21](./Day21)
+- [Day22](./Day22)
+- [Day23](./Day23)
+- [Day24](./Day24)
+- [Day25](./Day25)
+- [Day26](./Day26)
+- [Day27](./Day27)
+- [Day28](./Day28)
+- [Day29](./Day29)
+- [Day30](./Day30)
+- [Day31](./Day31)
