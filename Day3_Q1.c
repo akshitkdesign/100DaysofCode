@@ -1,5 +1,5 @@
 // #100daysofCode
-// Q1. Write a program to convert temperature from Celsius to Fahrenheit.
+// Q5. Write a program to convert temperature from Celsius to Fahrenheit.
 
     #include <stdio.h>
 
