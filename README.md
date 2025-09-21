@@ -52,7 +52,7 @@ As per the assignment guidelines:
 ## 🔗 Connect with Me  
 
 📌 GitHub: [akshitkdesign](https://github.com/akshitkdesign)  
-📌 LinkedIn: [Akshit Kumar](#) (Update with your profile link)  
+📌 LinkedIn: [Akshit Kumar](https://www.linkedin.com/in/akshit-kumar-91959935b/)  
 
 ---
 
