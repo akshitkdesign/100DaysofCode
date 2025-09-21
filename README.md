@@ -1,6 +1,6 @@
 # 💻 #100DaysofCode Challenge  
 
-![Progress](https://img.shields.io/badge/Progress-32%20days%20completed-brightgreen)  
+![Progress](https://img.shields.io/badge/Progress-32%2F100%20Days%20Completed-brightgreen)  
 ![Language](https://img.shields.io/badge/Language-C-blue)  
 ![Repo Size](https://img.shields.io/github/repo-size/akshitkdesign/100DaysofCode)  
 ![Last Commit](https://img.shields.io/github/last-commit/akshitkdesign/100DaysofCode)  
@@ -17,7 +17,6 @@ This repository contains all my daily coding assignments and practice programs, 
 
 Each folder corresponds to a day in the challenge and contains solutions to coding problems.  
 For example:  
-
 
 
 Every file includes:  
@@ -52,7 +51,7 @@ As per the assignment guidelines:
 ## 🔗 Connect with Me  
 
 📌 GitHub: [akshitkdesign](https://github.com/akshitkdesign)  
-📌 LinkedIn: [Akshit Kumar](https://www.linkedin.com/in/akshit-kumar-91959935b/)  
+📌 LinkedIn: [Akshit Kumar](#) (Update with your profile link)  
 
 ---
 
