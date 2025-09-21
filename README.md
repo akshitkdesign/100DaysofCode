@@ -1,37 +1,59 @@
-# 100 Days of C Programming
+# 💻 #100DaysofCode Challenge  
 
-This repository contains my assignments for the #100DaysOfCode challenge.
+![Progress](https://img.shields.io/badge/Progress-32%20days%20completed-brightgreen)  
+![Language](https://img.shields.io/badge/Language-C-blue)  
+![Repo Size](https://img.shields.io/github/repo-size/akshitkdesign/100DaysofCode)  
+![Last Commit](https://img.shields.io/github/last-commit/akshitkdesign/100DaysofCode)  
+![License](https://img.shields.io/badge/License-MIT-yellow)  
 
-## Day-wise Folders
+---
 
-- [Day01](./Day01)
-- [Day02](./Day02)
-- [Day03](./Day03)
-- [Day04](./Day04)
-- [Day05](./Day05)
-- [Day06](./Day06)
-- [Day07](./Day07)
-- [Day08](./Day08)
-- [Day09](./Day09)
-- [Day10](./Day10)
-- [Day11](./Day11)
-- [Day12](./Day12)
-- [Day13](./Day13)
-- [Day14](./Day14)
-- [Day15](./Day15)
-- [Day16](./Day16)
-- [Day17](./Day17)
-- [Day18](./Day18)
-- [Day19](./Day19)
-- [Day20](./Day20)
-- [Day21](./Day21)
-- [Day22](./Day22)
-- [Day23](./Day23)
-- [Day24](./Day24)
-- [Day25](./Day25)
-- [Day26](./Day26)
-- [Day27](./Day27)
-- [Day28](./Day28)
-- [Day29](./Day29)
-- [Day30](./Day30)
-- [Day31](./Day31)
+Welcome to my **#100DaysofCode journey**! 🎯  
+This repository contains all my daily coding assignments and practice programs, organized neatly into **Day01 → Day32 (and counting)** folders.  
+
+---
+
+## 📂 Repository Structure  
+
+Each folder corresponds to a day in the challenge and contains solutions to coding problems.  
+For example:  
+
+
+
+Every file includes:  
+✅ The problem statement as a comment at the top  
+✅ My code solution  
+✅ Verified output with sample test cases  
+
+---
+
+## 📝 Instructions  
+
+As per the assignment guidelines:  
+
+1. Copy the **question statement** into the top of your program as a comment.  
+2. Write your solution code below it.  
+3. Run and test using the provided **sample test cases**.  
+4. Push the verified solution to this GitHub repo.  
+5. Share your progress weekly on LinkedIn using the hashtag **#100DaysofCode**.  
+6. Submit progress via the provided form after every 10 questions.  
+
+---
+
+## 📊 Progress Tracker  
+
+- ✅ Day 01 – Day 10 Completed  
+- ✅ Day 11 – Day 20 Completed  
+- ✅ Day 21 – Day 30 Completed  
+- 🚀 Day 31+ In Progress  
+
+---
+
+## 🔗 Connect with Me  
+
+📌 GitHub: [akshitkdesign](https://github.com/akshitkdesign)  
+📌 LinkedIn: [Akshit Kumar](#) (Update with your profile link)  
+
+---
+
+✨ *Consistency is the key. One step every day brings you closer to mastery!*  
