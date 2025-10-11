@@ -44,8 +44,8 @@ As per the assignment guidelines:
 - ✅ Day 01 – Day 10 Completed  
 - ✅ Day 11 – Day 20 Completed  
 - ✅ Day 21 – Day 30 Completed  
-- ✅ Day 31 – Day 40 Completed + In Progress  
-- 🚀 Day 41 + In Progress 
+- ✅ Day 31 – Day 40 Completed   
+- ✅ Day 41 + Day 50 Completed  
 ---
 
 ## 🔗 Connect with Me  
