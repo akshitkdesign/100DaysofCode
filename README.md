@@ -9,7 +9,7 @@
 ---
 
 Welcome to my **#100DaysofCode journey**! 🎯  
-This repository contains all my daily coding assignments and practice programs, organized neatly into **Day01 → Day32 (and counting)** folders.  
+This repository contains all my daily coding assignments and practice programs, organized neatly into **Day01 → Day50 (and counting)** folders.  
 
 ---
 
