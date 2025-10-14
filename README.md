@@ -1,6 +1,6 @@
 # 💻 #100DaysofCode Challenge  
 
-![Progress](https://img.shields.io/badge/Progress-32%2F100%20Days%20Completed-brightgreen)  
+![Progress](https://img.shields.io/badge/Progress-50%2F100%20Days%20Completed-brightgreen)  
 ![Language](https://img.shields.io/badge/Language-C-blue)  
 ![Repo Size](https://img.shields.io/github/repo-size/akshitkdesign/100DaysofCode)  
 ![Last Commit](https://img.shields.io/github/last-commit/akshitkdesign/100DaysofCode)  
